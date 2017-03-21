@@ -1,0 +1,17 @@
+{
+  "name": "basic-banner-webpack-plugin",
+  "description": "Append the name and version of a package before the bundle.",
+  "author": "Leonardo Luiz <leonardokl@hotmail.com>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leonardokl/basic-banner-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "version",
+    "banner"
+  ]
+}
